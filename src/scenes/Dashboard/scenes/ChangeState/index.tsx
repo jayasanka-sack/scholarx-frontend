@@ -36,13 +36,13 @@ const programStates: State[] = [
   },
   {
     stepNo: 3,
-    name: 'Mentee Applicaiton Period',
+    name: 'Mentor Applicaiton Period',
     description:
       'Some descriptive text about this particular state of the program. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet urna id diam suscipit ultricies eget in lorem. Nulla at lorem a eros mattis iaculis et in dolor.',
   },
   {
     stepNo: 4,
-    name: 'Mentee Approval Period',
+    name: 'Mentor Approval Period',
     description:
       'Some descriptive text about this particular state of the program',
   },
